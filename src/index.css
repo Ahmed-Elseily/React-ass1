@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-bg{
+  background-color: #2C3E50;
+}
+.icons-inner{
+  border: 1px white solid;
+  padding: 5px;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
+.home{
+  background-color: #1ABC9C;
+}
+
+.about-section{
+  background-color: #1ABC9C;
+}
+.active{
+  background-color: #1ABC9C;
+  padding: 10px;
+  border-radius: 10px;
+}
